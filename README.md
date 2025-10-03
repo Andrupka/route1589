@@ -1,5 +1,5 @@
 # route1589
-A maps app written in Swift which uses GraphML for mapping data.
+A maps app written in Swift which uses GraphML for mapping data. (school project thing, can't make the repo private)
 
 
 Установка:
